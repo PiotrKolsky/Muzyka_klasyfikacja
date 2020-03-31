@@ -1,4 +1,4 @@
-Klasyfikacja i sortowanie plików muzycznych z plików *.wav na bazie algorytmu ExtraTreesClassifier.
+Klasyfikacja i sortowanie plików muzycznych *.wav na bazie algorytmu ExtraTreesClassifier.
 
 Zbiór treningowy (1.1 Gb):
 http://opihi.cs.uvic.ca/sound/genres.tar.gz
